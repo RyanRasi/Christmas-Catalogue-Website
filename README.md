@@ -8,9 +8,9 @@ Also included is a slideshow, an automatically playing classical song and an emb
 Finally this has PHP to save a user state upon revisiting the website through a counter that counts the amount of times a user has visited the site, as well as login states. This is further elaborated by a user having a login parameter for whether they are an admin or not. If they are, then they have the ability to add and edit products but if they are not then they can just view the products.
 <br><br>
 <h3>The login details are as follows</h3>
-Username - "admin"<br>Password - "admin"<br>Has administrator capabilities<br><br>
-Username - "notadmin"<br>Password - "notadmin"<br>Does not have administrator capabilities<br><br>
-Username - "Ryan"<br>Password - "Ryan"<br>Has administrator capabilities
+Username - "admin"<br>Password - "admin"<br><h4>Has administrator capabilities</h4><br><br>
+Username - "notadmin"<br>Password - "notadmin"<br><h4>Does not have administrator capabilities</h4><br><br>
+Username - "Ryan"<br>Password - "Ryan"<br><h4>Has administrator capabilities</h4>
 <br><br>
 Working on this project was a breeze and has really seemed to spur a love for web development for me, I've learnt new techniques such as PHP includes which has saved valuable time and increased efficiency, PHP loops as well as AJAX and asynchronous Javascript.
 <br><br>
