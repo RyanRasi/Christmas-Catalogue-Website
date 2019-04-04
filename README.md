@@ -7,7 +7,7 @@ Also included is a slideshow, an automatically playing classical song and an emb
 <br><br>
 Finally this has PHP to save a user state upon revisiting the website through a counter that counts the amount of times a user has visited the site, as well as login states. This is further elaborated by a user having a login parameter for whether they are an admin or not. If they are, then they have the ability to add and edit products but if they are not then they can just view the products.
 <br><br>
-<h4>The login details are as follows</h4>
+<h2>The login details are as follows</h2>
 "admin", "admin", 1
 "notadmin", "notadmin", 0
 "Ryan", "Ryan", 1
