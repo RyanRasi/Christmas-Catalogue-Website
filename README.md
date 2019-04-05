@@ -1,6 +1,8 @@
 # Christmas-Catalogue-Website
 This is a website created in HTML, CSS, PHP and Javascript for a university project to create an online product catalogue. 
-
+<br><br>
+Live Link - http://ryanrasi.com/projects/christmasproductcatalogue/homepage.php
+<br><br>
 This project is similar to Ebay and Amazon and incorporates a chirstmas theme to display a list of christmas products for the user to purchase. This is done asynchronously with AJAX as well as through a currency converter where the user can input a number to convert from a choice of five currencies and their value is updated in real time.
 <br><br>
 Also included is a slideshow, an automatically playing classical song and an embed of a spotify christmas playlist.
